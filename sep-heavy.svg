@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" role="img" aria-label="String divider pinned at both ends with three blank cards hanging">
+<line x1="20" y1="18" x2="1180" y2="18" stroke="#7a5a3a" stroke-width="3"/>
+<circle cx="20" cy="18" r="6" fill="#b08a3e"/><circle cx="1180" cy="18" r="6" fill="#b08a3e"/>
+<g fill="#f6eed6" stroke="#264e8a" stroke-width="2"><rect x="330" y="24" width="46" height="32"/><rect x="577" y="24" width="46" height="32"/><rect x="824" y="24" width="46" height="32"/></g>
+<g stroke="#7a5a3a" stroke-width="2"><line x1="353" y1="18" x2="353" y2="24"/><line x1="600" y1="18" x2="600" y2="24"/><line x1="847" y1="18" x2="847" y2="24"/></g>
+</svg>
