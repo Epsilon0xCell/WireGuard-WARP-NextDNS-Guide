@@ -1,9 +1,11 @@
-![Intro scenery](intro-banner.png)
+![Intro scenery: a river junction close up from above, braided channels folding between pale sand bars into one deep slate blue flow, the seam swirls of the meeting currents still visible on the joined water](intro-banner.png)
 
 
 # WireGuard-WARP-NextDNS-Guide
 
-![Wordmark banner](banner.png)
+![Wordmark banner: an aerial view of a river confluence where green banked streams merge into one wide river that runs on alone, pale sand bars braiding through the junction](banner.png)
+
+<p align="center"><img src="logo.png" alt="WireGuard-WARP-NextDNS-Guide logo: river channels photographed from directly above braiding between pale sand banks and joining into one wide slate blue flow, with one broad bank of red clay at the junction" width="200"></p>
 
 ![Animated scene](scene.svg)
 
